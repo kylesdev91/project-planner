@@ -1,16 +1,10 @@
 {
   "projects": [
     {
-      "id": 1,
-      "title": "Create new homepage banner",
-      "details": "Lorem ipsum",
-      "complete": false
-    },
-    {
-      "id": 2,
-      "title": "Make marketing email",
-      "details": "Lorem ipsum",
-      "complete": true
+      "title": "Read and Think W1001/W1002 Go Thru Tabby",
+      "details": "This is for totmorow topics!",
+      "complete": true,
+      "id": 1
     }
   ]
 }
