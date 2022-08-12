@@ -38,7 +38,7 @@ export default {
       let p = this.projects.find(project => {
         return project.id === id;
       })
-      p.complete = !p.complete;s
+      p.complete = !p.complete;
     }
   },
   computed: {
