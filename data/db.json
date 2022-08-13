@@ -1,22 +1,10 @@
 {
   "projects": [
     {
-      "title": "U1 - Intro to Vectors Video Notes ",
-      "details": "This is blocked right now. But wil work when done!",
-      "complete": true,
-      "id": 4
-    },
-    {
-      "title": "TEST ONGOING",
-      "details": "SSDNG",
-      "complete": true,
-      "id": 5
-    },
-    {
-      "title": "Should I stay or should I go?",
-      "details": "Your mom",
+      "title": "CSII Q1.W1 Quiz Prep",
+      "details": "*This is to study of the Comp Science 2 QUIZ on Tuesday!",
       "complete": false,
-      "id": 6
+      "id": 1
     }
   ]
 }
