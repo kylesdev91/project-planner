@@ -35,6 +35,7 @@ export default {
     deleteProject() {
       fetch(this.uri, { method: 'DELETE'})
       .then(() => this.$emit('delete', this.project.id))
+      alert('This project has been successfuly deleted!')
       .catch(err => console.log(err))
     },
     toogleComplete() {
