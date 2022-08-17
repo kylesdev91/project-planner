@@ -1,8 +1,8 @@
 {
   "projects": [
     {
-      "title": "CSII Q1.W1 Quiz Prep",
-      "details": "*This is to study of the Comp Science 2 QUIZ on Tuesday!",
+      "title": "Test Title 1",
+      "details": "Test Details 2",
       "complete": false,
       "id": 1
     }

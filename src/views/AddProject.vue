@@ -29,6 +29,7 @@ export default {
         body: JSON.stringify(project)
       }).then(() => {
         this.$router.push('/')
+        alert('This project has been successfuly created!')
       }).catch((err) => console.log(err))
     }
   }
